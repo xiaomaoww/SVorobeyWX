@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Yo!</h1>
+<h3 align="center">I'm Sasha. Full-time unity developer from Belarus, Minsk.</h3>
+<h3 align="center">I'm currently working at <a href="https://github.com/whitesharx">WhiteSharx</a></h3>
 
-<!--
-**SVorobeyWX/SVorobeyWX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Unity SDK's
+- UniRx
+- Agora voice
+- DOTween
+- Playfab
+- Firebase
+- Unity ADS/IAP
 
-Here are some ideas to get you started:
+### Skills and tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" width="40" height="40"/> 
+</p>
+
+### Links:
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sasha-v-084a2817a//)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SVorobeyWX)
+
