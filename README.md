@@ -4,9 +4,7 @@
 
 ### Unity SDK's
 - UniRx
-- Agora voice
 - DOTween
-- Playfab
 - Firebase
 - Unity ADS/IAP
 
