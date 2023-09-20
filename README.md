@@ -20,7 +20,7 @@
 </p>
 
 ### Links:
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/sasha-v-084a2817a/)  
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/alexandr-g-084a2817a/)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xiaomaoww)
 
