@@ -1,6 +1,6 @@
-<h1 align="center">Yo!</h1>
+<h1 align="center">Hi!</h1>
 <h3 align="center">I'm Sasha. Full-time unity developer from Belarus, Minsk.</h3>
-<h3 align="center">Latest place: <a href="https://github.com/whitesharx">WhiteSharx</a></h3>
+<h3 align="center">Latest place: Playstrom</h3>
 
 ### Unity SDK's
 - UniRx
